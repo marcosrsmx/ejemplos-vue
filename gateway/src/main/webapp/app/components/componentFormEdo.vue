@@ -1,4 +1,5 @@
 <script setup>
+//validacion de estados
 import { ref, computed } from "vue";
 
 const formData = ref({

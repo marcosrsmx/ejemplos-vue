@@ -1,6 +1,6 @@
 <script setup>
 import { ref, watch } from 'vue';
-
+// validacion por watch en tiempo real
 const email = ref('');
 const emailError = ref('');
 

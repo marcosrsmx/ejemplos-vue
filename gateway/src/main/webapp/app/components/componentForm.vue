@@ -1,4 +1,5 @@
 <script setup>
+//validacion form manual
 import { ref } from 'vue';
 
 const formData = ref({
